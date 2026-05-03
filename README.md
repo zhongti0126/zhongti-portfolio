@@ -25,7 +25,7 @@ Passionate about software engineering and currently learning web development and
 <img src="https://raw.githubusercontent.com/zhongti0126/zhongti-portfolio/main/certificate.jpg" width="500"/>
 
 ### 🇯🇵 Japanese Language Proficiency Test (JLPT) — N2
-📄 [View Certificate](https://raw.githubusercontent.com/zhongti0126/zhongti-portfolio/main/jlpt.pdf)
+📄 [View Certificate](https://raw.githubusercontent.com/zhongti0126/zhongti-portfolio/main/jlpt.jpg)
 
 ---
 
