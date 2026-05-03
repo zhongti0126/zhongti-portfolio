@@ -1,7 +1,7 @@
 # 張中褆 CHUNG-TI CHANG
 
 ## 👨‍💻 About Me
-Computer Science student passionate about software development and embedded systems.
+Computer Science student passionate about software development and embedded systems
 
 ---
 
@@ -12,8 +12,10 @@ Computer Science student passionate about software development and embedded syst
 
 ## 💻 Projects
 - Arduino Project  
-- Web Development Practice  
-- 3D Blender作品（之後可以放連結）
+- Python
+- C / C++
+- HTML 
+- 3D Blender
 
 ---
 
@@ -24,12 +26,14 @@ Computer Science student passionate about software development and embedded syst
 
 ---
 
-## 📞 Contact
-📧 Email: zhongti.official@gmail.com  
-📱 Phone: +886-972-934-359  
+## 📬 Contact Me
 
+- 📧 Email: [Send me an email](mailto:zhongti.official@gmail.com)
+- 📞 Phone: [Call me](tel:+886972934359)
+  
 ---
 
-## 🔗 Links
-- Instagram:
-- GitHub:
+## 🌐 Social
+
+- 📸 Instagram → [@zhongti0126](https://instagram.com/zhongti0126)
+- 💻 GitHub → [你的帳號](https://github.com/你的帳號)
