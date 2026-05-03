@@ -24,7 +24,7 @@ Passionate about software engineering and currently learning web development and
 ### 🥉 Seoul International Invention Fair (SIIF)
 <img src="https://raw.githubusercontent.com/zhongti0126/zhongti-portfolio/main/certificate.jpg" width="500"/>
 
-### 🇯🇵 Japanese Language Proficiency Test (JLPT) — N2
+### 📄 Japanese Language Proficiency Test (JLPT) — N2
 <img src="https://raw.githubusercontent.com/zhongti0126/zhongti-portfolio/main/jlpt.jpg" width="500"/>
 
 ---
