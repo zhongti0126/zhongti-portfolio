@@ -22,7 +22,7 @@ An embedded system designed to reduce collision risks using distance sensing and
 
 ## 🏆 Awards & Certifications
 - 🥉 Bronze Medal — Seoul International Invention Fair (SIIF)
-- 🇯🇵 JLPT N2 — Japanese Language Proficiency Test
+- 📄 JLPT N2 — Japanese Language Proficiency Test
 
 ---
 
