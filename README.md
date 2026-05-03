@@ -58,6 +58,12 @@ An embedded system designed to reduce collision risks using distance sensing and
 
 ---
 
+💻 Projects
+- Nintendo Switch Modding (Atmosphère / Hekate)
+- Smash Ultimate Skin Modding
+
+---
+
 ## 📬 Contact
 
 - 📧 Email: [zhongti.official@gmail.com](mailto:zhongti.official@gmail.com)
