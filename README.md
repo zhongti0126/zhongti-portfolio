@@ -1,72 +1,66 @@
-# CHUNG-TI CHANG 張中褆
+# Console Modding & Game Asset Customization Projects
 
-⭐ This is my main portfolio project. Feel free to explore!
+## 📌 Overview
+This repository showcases my experience with console modding workflows, custom firmware environments, and game asset customization.
 
-## 👨‍💻 About Me
-Computer Science student with hands-on experience in embedded systems and Arduino development  
-Awarded at the Seoul International Invention Fair (SIIF) 
-Currently focusing on software engineering, web development, and 3D design
+The focus of this project is to document technical learning, file structure understanding, mod management, UI customization, and debugging workflows.
 
----
-
-## 🚀 Featured Project
-
-### Arduino Anti-Collision System
-An embedded system designed to reduce collision risks using distance sensing and electromagnetic response
-
-**Key Contributions**
-- Developed control logic using Arduino (C/C++)
-- Integrated sensor data processing and hardware modules
-- Implemented distance detection and electromagnetic response system
-- Performed system testing and improved stability
+> ⚠️ Disclaimer: This repository is for educational and portfolio purposes only.  
+> No copyrighted game files, ROMs, keys, firmware files, or pirated content are included.
 
 ---
 
-## 🏆 Awards & Certifications
-- 🥉 Bronze Medal — Seoul International Invention Fair (SIIF)
-- 🇯🇵 JLPT N2 — Japanese Language Proficiency Test
+## ⚙️ Tools & Technologies
+
+- Atmosphère CFW environment
+- Hekate bootloader configuration
+- Smash Ultimate skin and texture customization
+- GameBanana mod installation workflow
+- SD card file structure management
+- Basic debugging and troubleshooting
+- GitHub documentation
 
 ---
 
-## 🛠 Skills
+## 💻 What I Worked On
 
-**Programming Languages**
-- C / C++ (Embedded Systems)
-- Python (Basic Applications)
-
-**Hardware & Systems**
-- Arduino Development
-- Sensor Integration & Control Logic
-
-**Web Development**
-- HTML (Learning)
-
-**Tools**
-- GitHub (Version Control)
-- Blender (3D Modeling)
-- Adobe Photoshop / Illustrator / Premiere
+- Set up and organized a custom firmware environment
+- Managed mod folders and SD card file structures
+- Imported and tested Smash Ultimate skin mods
+- Organized mod assets from community platforms such as GameBanana
+- Documented modding steps and troubleshooting notes
+- Practiced safe file management and backup workflows
 
 ---
 
-## 📜 Certificates
+## 🧠 Skills Demonstrated
 
-### 🥉 Seoul International Invention Fair (SIIF)
-<img src="https://raw.githubusercontent.com/zhongti0126/zhongti-portfolio/main/certificate.jpg" width="500"/>
-
-### 📄 JLPT N2 Certificate
-<img src="https://raw.githubusercontent.com/zhongti0126/zhongti-portfolio/main/jlpt.jpg" width="500"/>
-
----
-
-💻 Projects
-- Nintendo Switch Modding (Atmosphère / Hekate)
-- Smash Ultimate Skin Modding
+- Technical documentation
+- File system organization
+- Debugging and troubleshooting
+- Modding pipeline understanding
+- Asset customization workflow
+- Research and problem-solving
+- Version control with GitHub
 
 ---
 
-## 📬 Contact
+## 📁 Repository Structure
 
-- 📧 Email: [zhongti.official@gmail.com](mailto:zhongti.official@gmail.com)
-- 📞 Phone: [+886 972 934 359](tel:+886972934359)
-- 💻 GitHub: [zhongti0126](https://github.com/zhongti0126)
-- 📸 Instagram: [@zhongti0126](https://instagram.com/zhongti0126)
+```text
+switch-modding-portfolio/
+├── README.md
+├── index.html
+├── style.css
+├── assets/
+│   └── placeholder.txt
+└── docs/
+    └── modding-notes.md
+```
+
+---
+
+## 📝 Notes
+
+This repository does not provide instructions for piracy, bypassing payment systems, or distributing copyrighted files.  
+It only documents legal modding-related learning and portfolio presentation.
