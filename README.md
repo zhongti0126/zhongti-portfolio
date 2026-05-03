@@ -1,16 +1,16 @@
 # CHUNG-TI CHANG 張中褆
 
 ## 👨‍💻 About Me
-Computer Science student with hands-on experience in embedded systems and Arduino development.  
-Awarded at the Seoul International Invention Fair (SIIF).  
-Currently focusing on software engineering, web development, and 3D design.
+Computer Science student with hands-on experience in embedded systems and Arduino development
+Awarded at the Seoul International Invention Fair (SIIF) 
+Currently focusing on software engineering, web development, and 3D design
 
 ---
 
 ## 🚀 Featured Project
 
 ### Arduino Anti-Collision System
-An embedded system designed to reduce collision risks using distance sensing and electromagnetic response.
+An embedded system designed to reduce collision risks using distance sensing and electromagnetic response
 
 **Key Contributions**
 - Developed control logic using Arduino (C/C++)
