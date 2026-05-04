@@ -22,7 +22,7 @@ An embedded system designed to reduce collision risks using distance sensing and
 
 ## 🏆 Awards & Certifications
 - 🥉 Bronze Medal — Seoul International Invention Fair (SIIF)
-- 📄 JLPT N2 — Japanese Language Proficiency Test
+- 🇯🇵 Japanese Language Proficiency Test (JLPT) — N2
 
 ---
 
@@ -52,7 +52,7 @@ An embedded system designed to reduce collision risks using distance sensing and
 <img src="https://raw.githubusercontent.com/zhongti0126/zhongti-portfolio/main/certificate.jpg" width="500"/>
 
 ### 📄 JLPT N2 Certificate
-<img src="https://raw.githubusercontent.com/zhongti0126/zhongti-portfolio/main/jlpt.jpg" width="500"/>
+JLPT N2 Certificate — Available upon request
 
 ---
 
