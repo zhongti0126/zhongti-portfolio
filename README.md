@@ -59,6 +59,3 @@ JLPT N2 Certificate — Available upon request
 ## 📬 Contact
 
 - 📧 Email: [zhongti.official@gmail.com](mailto:zhongti.official@gmail.com)
-- 📞 Phone: [+886 972 934 359](tel:+886972934359)
-- 💻 GitHub: [zhongti0126](https://github.com/zhongti0126)
-- 📸 Instagram: [@zhongti0126](https://instagram.com/zhongti0126)
