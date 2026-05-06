@@ -43,7 +43,13 @@ An embedded system designed to reduce collision risks using distance sensing and
 - GitHub (Version Control)
 - Blender (3D Modeling)
 - Adobe Photoshop / Illustrator / Premiere
+  
+## 📚 Learning Journey
 
+### 🚀 LeetCode Journey
+Daily practice of Data Structures & Algorithms using Python and C++.
+
+🔗 [View Repository](https://github.com/zhongti0126/leetcode-journey)
 ---
 
 ## 📜 Certificates
@@ -53,6 +59,7 @@ An embedded system designed to reduce collision risks using distance sensing and
 
 ### 📄 JLPT N2 Certificate
 JLPT N2 Certificate — Available upon request
+
 
 ---
 
