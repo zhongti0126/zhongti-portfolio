@@ -9,6 +9,15 @@ Currently focusing on software engineering, web development, and 3D design
 
 ## 🚀 Featured Project
 
+### 📚 Study Quest App
+- Study tracking web app
+- Built with HTML, CSS, JavaScript
+- GitHub Pages deployment
+- Daily learning streak system
+
+🔗 Live Demo:
+https://zhongti0126.github.io/study---quest---app-/
+
 ### Arduino Anti-Collision System
 An embedded system designed to reduce collision risks using distance sensing and electromagnetic response
 
@@ -35,9 +44,11 @@ An embedded system designed to reduce collision risks using distance sensing and
 **Hardware & Systems**
 - Arduino Development
 - Sensor Integration & Control Logic
-
+- 
 **Web Development**
-- HTML (Learning)
+- HTML / CSS / JavaScript
+- Responsive Web Design
+- GitHub Pages Deployment
 
 **Tools**
 - GitHub (Version Control)
@@ -60,6 +71,13 @@ Daily practice of Data Structures & Algorithms using Python and C++.
 ### 📄 JLPT N2 Certificate
 JLPT N2 Certificate — Available upon request
 
+## 🌐 Live Projects
+
+- Portfolio Website  
+  https://zhongti0126.github.io/zhongti-portfolio/
+
+- Study Quest App  
+  https://zhongti0126.github.io/study---quest---app-/
 
 ---
 
