@@ -44,7 +44,7 @@ An embedded system designed to reduce collision risks using distance sensing and
 **Hardware & Systems**
 - Arduino Development
 - Sensor Integration & Control Logic
-- 
+  
 **Web Development**
 - HTML / CSS / JavaScript
 - Responsive Web Design
